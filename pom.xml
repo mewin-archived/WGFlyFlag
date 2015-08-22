@@ -4,7 +4,7 @@
 
   <groupId>com.mewin</groupId>
   <artifactId>WGFlyFlag</artifactId>
-  <version>0.2</version>
+  <version>0.3</version>
   <packaging>jar</packaging>
 
   <name>WGFlyFlag</name>
@@ -55,7 +55,7 @@
         <dependency>
             <groupId>com.sk89q</groupId>
             <artifactId>worldguard</artifactId>
-            <version>5.8-SNAPSHOT</version>
+            <version>6.0.0-SNAPSHOT</version>
             <type>jar</type>
             <scope>compile</scope>
             <exclusions>
